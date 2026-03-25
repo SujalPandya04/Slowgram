@@ -1,0 +1,1 @@
+{\n  "name": "slowgram",\n  "version": "1.0.0",\n  "description": "A monorepo for the slowgram project.",\n  "workspaces": [\n    "client",\n    "server"\n  ],\n  "scripts": {\n    "start": "npm run start --workspace=client",\n    "test": "npm run test --workspace=client"\n  },\n  "author": "SujalPandya04",\n  "license": "MIT"\n}
