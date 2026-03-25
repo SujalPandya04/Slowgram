@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# React
+build/
+
+# Environment Files
+.env
+.env.*
+
+# Build Artifacts
+dist/
+*.tgz
